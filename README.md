@@ -1,4 +1,4 @@
-# -EVENT-REVSCRIPT-Battlefield
+# EVENT REVSCRIPT / Battlefield
 
 **Observações:**
 
