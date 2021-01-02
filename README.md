@@ -3,8 +3,8 @@
 Observações: 
 
 » Transformei esse script pra RevScript, compativel com a [OTBR](https://github.com/opentibiabr/otservbr-global.git).<br>
-» Caso tiver alguma duvida ou ocorrer algum erro, abra um [Issues](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-MonsterHunter/issues).<br>
-» Caso queira contribuir ou corrigir algum erro, abra um [Pull requests](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-MonsterHunter/pulls).
+» Caso tiver alguma duvida ou ocorrer algum erro, abra um [Issues](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-Battlefield/issues).<br>
+» Caso queira contribuir ou corrigir algum erro, abra um [Pull requests](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-Battlefield/pulls).
 
 1. Como funciona?
 
