@@ -20,4 +20,4 @@
 
 3. **Créditos**
 
-» *Créditos a Eduardo Dantas*
+» *Créditos a Eduardo Dantas.*
