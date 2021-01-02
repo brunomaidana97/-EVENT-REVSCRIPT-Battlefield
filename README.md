@@ -17,3 +17,7 @@
 » *Configurar rewards e posições de acordo com sua instalação do mapa.*<br>
 » *Verifique as observações que estão dentro dos scripts.*<br>
 » *Você pode mesclar o mapa ao seu ou usar ele como additional (não precisa mudar as posições).*
+
+3. **Créditos**
+
+» *Créditos a Eduardo Dantas*
