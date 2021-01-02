@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+
+	<channel id="12" name="Events" public="1" script="events.lua" />
+	
+</channels>
