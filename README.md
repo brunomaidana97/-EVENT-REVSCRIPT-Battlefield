@@ -1,6 +1,6 @@
 # -EVENT-REVSCRIPT-Battlefield
 
-**Observações: **
+**Observações:**
 
 » **O sistema pode conter erros, então antes de reclamar, por favor reporte.**<br>
 » Transformei esse script pra RevScript, compativel com a [OTBR](https://github.com/opentibiabr/otservbr-global.git).<br>
