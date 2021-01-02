@@ -2,7 +2,7 @@
 
 Observações: 
 
-» O sistema pode conter erros, então antes de reclamar, por favor reporte.<br>
+» _O sistema pode conter erros, então antes de reclamar, por favor reporte._<br>
 » Transformei esse script pra RevScript, compativel com a [OTBR](https://github.com/opentibiabr/otservbr-global.git).<br>
 » Caso tiver alguma duvida ou ocorrer algum erro, abra um [Issues](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-Battlefield/issues).<br>
 » Caso queira contribuir ou corrigir algum erro, abra um [Pull requests](https://github.com/brunomaidana97/-EVENT-REVSCRIPT-Battlefield/pulls).
