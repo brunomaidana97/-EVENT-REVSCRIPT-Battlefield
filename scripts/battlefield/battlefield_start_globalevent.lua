@@ -1,4 +1,4 @@
-local TELEPORT_POSITION = Position(32654, 31896, 7) -- posição onde ira criar o teleport
+local TELEPORT_POSITION = Position(32654, 31896, 7) -- posiÃ§Ã£o onde ira criar o teleport
 local TELEPORT_ACTIONID = 4500
 local TELEPORT_ITEMID = 38946
 
@@ -19,7 +19,7 @@ local teleport = Tile(TELEPORT_POSITION):getItemById(TELEPORT_ITEMID)
 	if teleport then
 		teleport:remove()
 	else
-		error("Não havia teleport.")
+		error("NÃ£o havia teleport.")
 	end	
 end
 
@@ -45,7 +45,7 @@ local time = os.date("*t")
 		addEvent(warnEvent, 2 * 60 * 1000, 4, 8) 
 		addEvent(removeTeleport,10 * 60 * 1000) 
 		addEvent(openBattlefield, 10 * 60 * 1000) 
-		addEvent(closeBattlefield, (30 + 10) * 60 * 1000)
+		addEvent(closeBattlefield, (30 + 10) * 60 * 1000) -- (30 = 30 mins to close event)
 	end
 	return true
 end
